@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Following a GraphQL tutorial to build an app which displays a simple news feed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-tambo/graphql-news-feed.git"
+  },
+  "author": "m-tambo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-tambo/graphql-news-feed/issues"
+  },
+  "homepage": "https://github.com/m-tambo/graphql-news-feed#readme"
+}
